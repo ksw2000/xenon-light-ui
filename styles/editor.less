@@ -12,7 +12,7 @@ atom-text-editor[mini] {
   transition: border-color 500ms;
 
   &.is-focused {
-    background-color: darken(@input-background-color, 5%);
+    background-color: darken(@input-background-color, 10%);
     border-color: @background-color-info!important;
   }
 
@@ -22,6 +22,6 @@ atom-text-editor[mini] {
   }
 
   .selection .region {
-    background-color: @background-color-selected;
+    background-color: darken(@background-color-selected, 10%);
   }
 }
