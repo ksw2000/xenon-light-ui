@@ -1,8 +1,8 @@
 # Xenon Light UI Theme
 
-![A screenshot of your theme](/demo.png)
+![A screenshot of your theme](https://raw.githubusercontent.com/liao2000/xenon-light-ui/master/demo.png)
 
-![A screenshot of your theme](/demo2.png)
+![A screenshot of your theme](https://raw.githubusercontent.com/liao2000/xenon-light-ui/master/demo2.png)
 
 **Recommend**
 + UI: Xenon light
